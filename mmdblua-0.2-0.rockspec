@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "mmdblua"
-version = "0.1-0"
+version = "0.2-0"
 
 -- LuaDist source
 source = {
-  tag = "0.1-0",
+  tag = "0.2-0",
   url = "git://github.com/LuaDist-testing/mmdblua.git"
 }
 -- Original source
 -- source = {
--- 	url = "https://github.com/daurnimator/mmdblua/archive/v0.1.zip";
--- 	dir = "mmdblua-0.1";
+-- 	url = "https://github.com/daurnimator/mmdblua/archive/v0.2.zip";
+-- 	dir = "mmdblua-0.2";
 -- }
 
 description = {
